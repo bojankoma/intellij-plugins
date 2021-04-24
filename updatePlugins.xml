@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
+    <plugin id="com.infinum.intellij.plugins.warden" url="https://github.com/bojankoma/intellij-gradle-warden/blob/master/Warden-1.0.0.zip?raw=true" version="1.0.0">
+        <idea-version since-build="202.4357.23"  />
+    </plugin>
+</plugins>
